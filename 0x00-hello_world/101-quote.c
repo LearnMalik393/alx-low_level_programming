@@ -3,7 +3,7 @@
 /**
  * main - prints "and that piece of art is useful" - Dora Korpar, 2015-10-19",
  * followed by a new line, to standard output
- * return 1 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
