@@ -2,8 +2,9 @@
 /**
  * main - print a line of code using puts
  *
- * return: 0 (success)
+ * Return: Always 0(success)
 */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
