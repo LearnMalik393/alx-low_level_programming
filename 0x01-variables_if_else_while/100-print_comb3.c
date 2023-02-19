@@ -2,9 +2,12 @@
 #include <stdlib.h>
 /**
  * main - Entry point
- *
+ * Description: Write a program that prints all possible
+ * different combinations of two digits
+ * Numbers must be seperated by ,, followed by a space
  * Return: Always 0(success)
  */
+
 int main(void)
 {
 	int c;
