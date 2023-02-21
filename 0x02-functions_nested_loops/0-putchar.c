@@ -1,5 +1,6 @@
 #include "main.hi"
-/*
+/**
+ *
  * main - Print _putchar
  * Return: Always 0
  */
